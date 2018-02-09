@@ -3,7 +3,13 @@
   "version": "1.0.1",
   "description": "A boards-cli preset for admin on rest.",
   "main": "index.js",
-  "keywords": ["react", "rest", "admin", "aor", "boards"],
+  "keywords": [
+    "react",
+    "rest",
+    "admin",
+    "aor",
+    "boards"
+  ],
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
     "version": "npm run changelog && git add -A CHANGELOG.md",
