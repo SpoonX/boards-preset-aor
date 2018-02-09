@@ -1,6 +1,6 @@
 {
   "name": "boards-preset-aor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A boards-cli preset for admin on rest.",
   "main": "index.js",
   "keywords": [
