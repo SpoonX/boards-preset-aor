@@ -3,7 +3,8 @@ module.exports = {
   tasks       : require('./lib/task/index'),
   parameters  : {
     aor: {
-      resources: 'resource/'
+      resources: './resource/',
+      app      : 'App.js'
     }
   }
 };
